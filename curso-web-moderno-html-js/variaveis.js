@@ -30,3 +30,28 @@ console.log(preco1 * ( 1 - desconto))
 let nome1 = "Caderno";
 let categoria = "Livraria";
 console.log("Produto " + nome1 + ", Categoria " + categoria); 
+
+/**
+ * Aula 25 trabalhao com dados #03, tipos de dados
+ */
+
+console.log("###############################################")
+
+let idade = 31;
+console.log(typeof 31);
+console.log(typeof idade);
+
+let salario = 44756.45
+console.log(typeof salario);
+
+let estaChhovendo = true;
+console.log(typeof estaChhovendo)
+
+/**
+ * Aula 26 trabalhao com dados #03, tipos de dados
+ */
+console.log("###############################################")
+
+const a = 3; // valor nunca mudara
+
+console.log(a)
